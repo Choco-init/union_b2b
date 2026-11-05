@@ -1,0 +1,13 @@
+tmp/
+__pycache__/
+.venv/
+.env
+.env.*
+!.env.example
+
+# Local scratch input; the reviewed example is examples/input-product.json.
+/dbd.json
+.pytest_cache/
+.ruff_cache/
+.DS_Store
+Thumbs.db

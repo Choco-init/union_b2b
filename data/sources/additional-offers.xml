@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<yml_catalog date="2026-11-04T08:10:27+03:00">
+  <shop>
+    <offers>
+      <offer id="72404" available="true">
+        <name>testo 608-H1</name>
+        <typePrefix>термогигрометр</typePrefix>
+        <url>https://www.souz-pribor.ru/product/testo-608-h1/</url>
+        <categoryId>437</categoryId>
+        <vendor>Testo</vendor>
+        <vendorCode />
+        <picture>https://www.souz-pribor.ru/upload/iblock/213/xrirgz32p2yfa5x9z8a13tw82ea3jfhb/IMG_5722_1.jpg</picture>
+        <price>7100</price>
+        <currencyId>RUR</currencyId>
+        <param name="Код товара">12353</param>
+      </offer>
+      <offer id="73079" available="true">
+        <name>testo 608-H2</name>
+        <typePrefix>термогигрометр </typePrefix>
+        <url>https://www.souz-pribor.ru/product/testo-608-h212353/</url>
+        <categoryId>437</categoryId>
+        <vendor>Testo</vendor>
+        <vendorCode>0560 6082</vendorCode>
+        <picture>https://www.souz-pribor.ru/upload/iblock/8de/testo-608_H2_foto_13_05_20_1.jpg</picture>
+        <price>11373</price>
+        <currencyId>RUR</currencyId>
+        <param name="Артикул">0560 6082</param>
+        <param name="Код товара">12354</param>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>

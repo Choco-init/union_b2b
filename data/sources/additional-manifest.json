@@ -1,0 +1,13 @@
+{
+  "source_url": "https://www.souz-pribor.ru/yml/any/feed.xml",
+  "selection_date": "2026-11-05",
+  "catalog_date": "2026-11-04T08:10:27+03:00",
+  "source_sha256": "5f81882b84e4aed11d3eacdb5a609d94496e7cd029fdfe8c8da7727503e964a6",
+  "selected_offer_ids": [
+    "72404",
+    "73079"
+  ],
+  "snapshot_file": "additional-offers.xml",
+  "snapshot_sha256": "0e4a719f31e431762e0549bcb28ba263ad8850d1e0f5343ca6dc50b5a3fa86fc",
+  "note": "Выборка из ранее загруженного фида от 04.11.2026; карточки и документация проверены 05.11.2026. Цена и наличие в генерации не используются."
+}

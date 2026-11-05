@@ -1,0 +1,15 @@
+{
+  "source_url": "https://www.souz-pribor.ru/yml/any/feed.xml",
+  "checked_on": "2026-11-04",
+  "catalog_date": "2026-11-04T08:10:27+03:00",
+  "source_offer_count": 47982,
+  "source_bytes": 37159236,
+  "source_sha256": "5f81882b84e4aed11d3eacdb5a609d94496e7cd029fdfe8c8da7727503e964a6",
+  "selected_offer_ids": [
+    "70513",
+    "73083"
+  ],
+  "snapshot_file": "selected-offers.xml",
+  "snapshot_sha256": "f46eb82adfeeb62340bb5d78b8218fde9fb223ff7272efa745a5135173bebbee",
+  "note": "Выборка двух предложений; не самостоятельный полный YML-каталог. Разделы магазина и категорий не включены."
+}
