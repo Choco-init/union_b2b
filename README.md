@@ -6,7 +6,7 @@
 
 Для демонстрации без незаполненных полей выберите **Testo 608-H1** или **Testo 608-H2**. У каждого заполнены 22 характеристики. Первые Testo 0560 1109 и APPA 61 сохранены для демонстрации обработки пропусков и конфликтов. Происхождение новых данных и границы проверки описаны в [data/additional-products.md](data/additional-products.md).
 
-Готовые результаты: [608-H1](examples/generated/testo-608-h1.md), [608-H2](examples/generated/testo-608-h2.md), [Testo 0560 1109](examples/generated/testo-0560-1109.md), [APPA 61](examples/generated/appa-61.md). [JSON для самостоятельной проверки](examples/input-product.json).
+Готовые результаты: [608-H1](examples/generated/testo-608-h1.md), [608-H2](examples/generated/testo-608-h2.md), [Testo 0560 1109](examples/generated/testo-0560-1109.md), [APPA 61](examples/generated/appa-61.md), [JSON для самостоятельной проверки](examples/input-product.json).
 
 ## Запуск
 
